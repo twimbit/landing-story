@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en" ⚡>
+  <head>
+    <title>
+      Twimbit Pro - Research
+    </title>
+    <style amp-boilerplate>
+          body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both
+    }
+
+    @-webkit-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @-moz-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @-ms-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @-o-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    </style>
+    <meta name="twitter:card">
+    <meta content="article" property="og:type">
+    <meta content="Why is research important?" property="og:title">
+    <meta content="Keep every business, individual and career restriking!" property="og:description">
+    <meta content="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/stories%2FLOp0nXv40BSHOi8b6y9Dm_sl3S1Wl9drcC9KNRK3Tkg%3D.html?alt=media&token=e3d5d490-667b-4c9c-833d-5a73dad80148" property="og:url">
+    <meta content="https://www1.chester.ac.uk/sites/default/files/styles/hero_mobile/public/041019-1020_Research%20Festival%202020%20Portal%20Banner.jpg?itok=JDR-nIMq" property="og:image">
+    <noscript>
+      <style amp-boilerplate>
+        body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+      </style>
+    </noscript>
+    <style amp-custom>
+          :root {
+        --color-error: #B00020;
+        --color-primary: #005AF0;
+    }
+    amp-story {
+        color: white;
+        border: none;
+    }
+    
+    .image-fit-contain img {
+      object-fit: contain;
+     }
+     
+    .image-fit-cover img {
+      object-fit: cover;
+     }
+     
+    .image-fit-fill img {
+      object-fit: fill;
+     }
+    
+    amp-story-grid-layer {
+    }
+    .bottom  {
+        align-content: end;
+    }
+    div {
+    }
+    .start {
+       align-content: start;
+       text-align: left;
+    }
+    .end {
+      align-content: end;
+      text-align: right;
+    }
+    .center {
+       align-content: center;
+       text-align: center;
+    }
+    .fill {
+       text-align: justify;
+    }
+    @media screen
+      and (max-width: 767px)
+      and (min-width: 375px){
+          :root {
+        --color-error: #B00020;
+        --color-primary: #005AF0;
+    }
+    amp-story {
+        color: white;
+        border: none;
+    }
+    amp-story-grid-layer {
+
+    }
+    .bottom  {
+        align-content: end;
+    }
+    div {
+
+    }
+    .start {
+       align-content: start;
+       text-align: left;
+    }
+    .end {
+       align-content: end;
+      text-align: right;
+    }
+    .center {
+       align-content: center;
+       text-align: center;
+    }
+    .fill {
+       text-align: justify;
+    }
+    .absolute {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        padding: 0px;
+    }
+  }
+  @media screen
+      and (max-width: 1024px)
+      and (min-width: 768px){
+          :root {
+        --color-error: #B00020;
+        --color-primary: #005AF0;
+    }
+    amp-story {
+        color: white;
+        border: none;
+    }
+    amp-story-grid-layer {
+        text-align: center;
+        padding: 5% 0 0 0;
+
+    }
+    .bottom  {
+        align-content: center;
+        padding: 5% 0 0 0;
+    }
+    
+    div {
+         text-align: center;
+         
+    }
+    .start {
+       align-content: start;
+       text-align: left;
+    }
+    .end {
+       align-content: end;
+      text-align: right;
+    }
+    .center {
+       align-content: center;
+       text-align: center;
+    }
+    .fill {
+       text-align: justify;
+    }
+    .hide {
+        opacity: 0;
+    }
+    .top {
+        padding: 20% 0 0 0;
+    }
+    .title {
+        font-size: 50px;
+    }
+    .cover-text 
+    {
+        margin: 50% 0 0 0;
+        padding: 0 3% 0 3%;
+    }
+    .title-text 
+    {
+        margin: 25% 0 0 0;
+        padding: 0 3% 0 3%;
+    }
+      }
+  @media screen
+      and (max-width: 2400px)
+      and (min-width: 1025px){
+          :root {
+        --color-error: #B00020;
+        --color-primary: #005AF0;
+    }
+    amp-story {
+        color: white;
+        border: none;
+    }
+    amp-story-grid-layer {
+        text-align: center;
+        padding: 5% 0 0 0;
+
+    }
+    .bottom  {
+        align-content: center;
+        padding: 5% 0 0 0;
+    }
+    
+    div {
+         text-align: center;
+         
+    }
+    .start {
+       align-content: start;
+       text-align: left;
+    }
+    .end {
+       align-content: end;
+      text-align: right;
+    }
+    .center {
+       align-content: center;
+       text-align: center;
+    }
+    .fill {
+       text-align: justify;
+    }
+    .hide {
+        opacity: 0;
+    }
+    .top {
+        padding: 10% 0 0 0;
+    }
+    .title {
+        font-size: 50px;
+    }
+    .cover-text 
+    {
+        margin: 300px 0 0 0;
+    }
+    .title-text 
+    {
+        margin: 100px 0 0 0;
+    }
+    
+  }
+
+    </style>
+    <script async src="https://cdn.ampproject.org/v0/amp-video-0.1.js" custom-element="amp-video">
+    </script>
+    <script async custom-element="amp-story" src="https://cdn.ampproject.org/v0/amp-story-1.0.js">
+    </script>
+    <script async src="https://cdn.ampproject.org/v0/amp-story-1.0.js" custom-element="amp-story">
+    </script>
+    <script async src="https://cdn.ampproject.org/v0/amp-font-0.1.js" custom-element="amp-font">
+    </script>
+    <script async src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" custom-element="amp-analytics">
+    </script>
+    <script async src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js" custom-element="amp-iframe">
+    </script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport">
+    <meta charset="utf-8">
+    <link href="index.html" rel="canonical">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+  </head>
+  <body>
+    <amp-story standalone supports-landscape title="Twimbit Pro - Research" publisher="" publisher-logo-src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/ampstor%2Famp-logo.png?alt=media&token=bc85fbd1-bf48-4891-b09f-6bf14e8d4e3b" poster-portrait-src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/ampstor-grey-background?alt=media&token=d4bbdc24-8f27-4404-9b8a-b54d804212de">
+      
+      <amp-story-page id="1">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgradient.png?alt=media&token=ae9b88bf-e877-4a09-a4e7-37f854c912c5" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical" position="landscape-half-right" class="hide">
+          <div class="absolute" >
+            <amp-img height="30"  src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Floop_1.png?alt=media&token=95917f7b-1146-4ec7-bbc1-58b19514d153" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;top: 7.833647392165492%;left: 60.28228759765625%;width: 31.25%;z-index: 3;" animate-in="fly-in-top" animate-in-delay="0.5s">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top " template="vertical" >
+          <div style="">
+            <amp-img
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fcover_1_final_1.png?alt=media&token=7ef5a577-efdb-443b-8369-a5efa5e95929" 
+            srcset="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/Twimbit%20story%2Fcover_big_1.png?alt=media&token=5ab06fca-4700-4d44-a079-5661f69362e4 320w" 
+            height="300"
+            layout="fixed-height"
+            class="image-fit-contain img-web" 
+            style="color: #FFFFFF;object-fit: contain;margin-top: 10px;" animate-in="fly-in-top" >
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top hide" template="vertical" position="landscape-half-right">
+          <div style="">
+            <amp-img 
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fmen_final.png?alt=media&token=8c9ae7bb-4fd6-4a27-9bf0-b43e7bd64c88" 
+            class="image-fit-contain " style="color: #FFFFFF;object-fit: contain;margin-right: 150px;margin-top: 200px;" animate-in="fly-in-left" animate-in-delay="0.4s"
+            height="120" 
+            >
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top hide" template="vertical" position="landscape-half-right">
+          <div style="">
+            <amp-img height="100" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgirl_final.png?alt=media&token=3006ef78-db48-45d9-8b04-96339a9428e6" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;margin-left: 140px;margin-top: 190px;" animate-in="fly-in-right" animate-in-delay="0.2s">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical" class="hide" position="landscape-half-right">
+          <div class="absolute" >
+            <amp-img height="20" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Floop_1.png?alt=media&token=b2a5f76d-f8b3-454a-b454-128179b64098" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;top: 18.265501210387324%;left: -3.9373779296875%;width: 31.25%;z-index: 7;" animate-in="fly-in-top" animate-in-duration="1.5s">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical"   position="landscape-half-left">
+          <div class="absolute" >
+            <amp-img height="30" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Flogo_small.png?alt=media&token=d4e5a5d4-22a4-4f6c-b7da-9d873c0d35e2" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;margin-top: 30px;top: 0%;left: 0%;width: 31.25%;z-index: 8;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="bottom cover-text" template="vertical" >
+          <div style="">
+            <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1.6875em;font-weight: bold;">
+              What is the purpose of research?
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1.125em;" >
+              There are many reasons why research is important.
+            </p>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+
+      <amp-story-page id="2">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2FBg_pink.png?alt=media&token=4f6cf84f-1763-4dcd-9444-07dfcf58a9a1" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.25em;text-align: center;font-weight: bold;" animate-in="fly-in-top">
+              ACCORDING TO US
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 0.9375em;text-align: center;margin-bottom: 30px;" animate-in="fly-in-top" animate-in-delay="0.2s">
+              The purpose of research is to keep every business, individual and career restriking! 
+            </p>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="320" 
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fmen_icons.png?alt=media&token=7a0d4a21-4aaa-4644-ad14-6cdb5c70c520" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;top: 36.29408285651409%;left: 18.2867431640625%;width: 62.5%;z-index: 4;" animate-in="pulse" animate-in-duration="2.5s">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+
+      <amp-story-page id="3">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgreen_gradient.png?alt=media&token=96cac21d-cfb8-4a9d-a355-3e7d991ec38a" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="1200" 
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Flines.png?alt=media&token=ef1b8f75-e406-49bd-ae6e-3006379616ff" class="image-fit-cover" style="color: #FFFFFF;opacity: 0.0860739315257353;object-fit: cover;top: 0%;left: 0%;width: 187.5%;z-index: 3;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top title-text" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.5em;text-align: center;">
+              Why should research be a privilege for a few? 
+            </p>
+          </div>
+          <div style="">
+            <amp-img  
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fopen_1.png?alt=media&token=a9d1ef5b-300a-46b3-be23-bac530dc07bf" 
+            height="250"
+            class="image-fit-contain" style="color: #FFFFFF;opacity: 1;" animate-in="fade-in" animate-in-duration="0s" animate-in-delay="0.8s">
+            </amp-img>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.125em;text-align: center;font-weight: bold;margin-top: 30px;" animate-in="fade-in" animate-in-delay="1s">
+              We want to democratize great research and knowledge like a drop of ink in a glass of water. 
+            </p>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <amp-story-page id="12">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2FBg_pink.png?alt=media&token=4f6cf84f-1763-4dcd-9444-07dfcf58a9a1" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="1200" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Flines.png?alt=media&token=ef1b8f75-e406-49bd-ae6e-3006379616ff" class="image-fit-cover" style="color: #FFFFFF;opacity: 0.0860739315257353;object-fit: cover;top: 0%;left: 0%;width: 187.5%;z-index: 3;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top title-text" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.375em;text-align: center;">
+              Why does research carry a boring and difficult to access persona? 
+            </p>
+          </div>
+          <div style="">
+            <amp-img height="220" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fdifficult_2.png?alt=media&token=f617edd3-8f78-42c3-a4e8-ed0579170d9a" 
+            class="image-fit-contain" style="color: #FFFFFF;opacity: 1;object-fit: contain;" animate-in="fade-in" animate-in-duration="0s" animate-in-delay="0.8s">
+            </amp-img>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.125em;text-align: center;font-weight: bold;margin-top: 30px;" animate-in="fade-in" animate-in-delay="1s">
+              Come on now, make it fun, easy to consume and accessible on-demand! 
+            </p>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <amp-story-page id="13">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgreen_gradient.png?alt=media&token=96cac21d-cfb8-4a9d-a355-3e7d991ec38a" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="1200" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Flines.png?alt=media&token=ef1b8f75-e406-49bd-ae6e-3006379616ff" class="image-fit-cover" style="color: #FFFFFF;opacity: 0.0860739315257353;object-fit: cover;top: 0%;left: 0%;width: 187.5%;z-index: 3;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top title-text" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.375em;text-align: center;">
+              What do you do with all the research decks sitting in your inbox? 
+            </p>
+          </div>
+          <div style="">
+            <amp-img height="220" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Finbox_2.png?alt=media&token=091ba0f8-a3e7-4a2b-87c5-b1356332e918" class="image-fit-contain" style="color: #FFFFFF;opacity: 1;object-fit: contain;" animate-in="fade-in" animate-in-duration="0s" animate-in-delay="0.8s">
+            </amp-img>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;font-weight: bold;margin-top: 30px;" animate-in="fade-in" animate-in-delay="1s">
+              Let’s disrupt the norm and go digital in the co-creation, presentation and consumption of research. 
+            </p>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <amp-story-page id="7" >
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fpink_gradient2.png?alt=media&token=3e3c1703-e57a-4c65-a554-94901ce581a6" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top title-text" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 2.1875em;text-align: center;font-weight: bold;">
+              The twimbit pro platform is at your rescue! 
+            </p>
+          </div>
+          <div style="">
+            <amp-img 
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Ftwimbit_pro.png?alt=media&token=b42ea33d-250f-4ed4-94ef-159708dc1d1e" 
+            height="220" 
+            class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;" animate-in="pulse" animate-in-duration="2.5s">
+            </amp-img>
+          </div>
+          <div style="">
+            <amp-img height="50" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Ftwimbit-pro-logo.png?alt=media&token=b5d70c71-1b30-43ef-9848-0665d08b4c7c" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;margin-top: 10px;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <amp-story-page id="8">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgreen_gradient.png?alt=media&token=96cac21d-cfb8-4a9d-a355-3e7d991ec38a" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top title-text" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.5em;text-align: center;">
+              What was the last big thing you learnt that changed your life?
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;margin-top: 30px;" animate-in="fly-in-bottom" animate-in-delay="0.5s">
+              Umm....
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-bottom" animate-in-delay="1s">
+              Well, I don't remember..
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-bottom" animate-in-delay="1.5s">
+              I have to drive for a meeting now 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-bottom" animate-in-delay="2.5s">
+              I’ll be offline on a flight 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-bottom" animate-in-delay="3s">
+              I don’t have time to search 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-bottom" animate-in-delay="3.5s">
+              And...
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #f26b6f;font-family: Poppins;font-size: 1.125em;text-align: center;font-weight: bold;margin-top: 30px;" animate-in="fly-in-bottom" animate-in-delay="4s">
+              My friend, didn’t you hear about the Twimcast learning platform? 
+            </p>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <amp-story-page id="14">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fpink_gradient2.png?alt=media&token=3e3c1703-e57a-4c65-a554-94901ce581a6" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top title-text" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.25em;text-align: center;font-weight: bold;">
+              A smart subscription platform designed to give users the flexibility to consume content the way they want.
+            </p>
+          </div>
+          <div style="">
+            <amp-img height="220" 
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Ftwimcast.png?alt=media&token=27c02f4e-2b74-4ed0-943a-2923e920a9b2" 
+            height="220"
+            class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;" animate-in="pulse" animate-in-duration="2.5s">
+            </amp-img>
+          </div>
+          <div style="">
+            <amp-img height="50" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Ftwimcast-logo.png?alt=media&token=8c709295-5185-44ec-bb63-ff38a1320b00" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;margin-top: 10px;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+
+
+      <amp-story-page id="9">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fpink_gradient2.png?alt=media&token=3e3c1703-e57a-4c65-a554-94901ce581a6" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="to title-text" template="vertical">
+          <div style="">
+            <h1 class="title" style="color: #ffffff;font-family: Poppins;font-size: 1.5625em;text-align: center;">
+              So what is the point? 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 0.9375em;text-align: center;margin-top: 10px;">
+              Imagine a world of research, where: 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-left" animate-in-delay="1s">
+              • Every aspect of creating, presenting and consumption of research is unified 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-left" animate-in-delay="2s">
+              • We live in harmony to co-create research and growth 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-left" animate-in-delay="3s">
+              • Technology simplifies the complex 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-left" animate-in-delay="4s">
+              • No knowledge is without action 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1em;text-align: center;" animate-in="fly-in-left" animate-in-delay="5s">
+              • Research just keeps helping every business, individual and career restrike! 
+            </p>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="1200" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Flines.png?alt=media&token=ef1b8f75-e406-49bd-ae6e-3006379616ff" class="image-fit-cover" style="color: #FFFFFF;opacity: 0.0860739315257353;object-fit: cover;top: 0%;left: 0%;width: 187.5%;z-index: 3;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute hide" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="100" 
+            src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgirl_final.png?alt=media&token=3006ef78-db48-45d9-8b04-96339a9428e6" class="image-fit-contain" style="color: #FFFFFF;object-fit: contain;margin-left: 100px;margin-top: 460px;top: 0%;left: 0%;width: 93.75%;z-index: 4;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+      <amp-story-page id="10">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fgreen_gradient.png?alt=media&token=96cac21d-cfb8-4a9d-a355-3e7d991ec38a" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="absolute" style="position: absolute;width: 100%;height: 100%;padding: 0px;">
+            <amp-img height="1200" src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Flines.png?alt=media&token=ef1b8f75-e406-49bd-ae6e-3006379616ff" class="image-fit-cover" style="color: #FFFFFF;opacity: 0.06356272977941177;object-fit: cover;top: 0%;left: 0%;width: 187.5%;z-index: 3;">
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer class="top" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.6875em;text-align: center;font-weight: bold;margin-top: 110px;">
+              Twimbit – the world is moved by ideas and technology 
+            </p>
+          </div>
+          <div style="">
+            <p style="color: #ffffff;font-family: Poppins;font-size: 1.0625em;text-align: center;">
+              Let’s move it by disrupting research! 
+            </p>
+          </div>
+          <div style="">
+          </div>
+          <amp-story-cta-layer>
+            <a href="https://twimbit.com/about-us/" class="button center" style="text-decoration:none; object-align:center; background-color:white; color:black; padding: 10px 10px 5px 10px; font-family: Poppins;font-size: 1.2875em;">Check us out</a>
+            </amp-story-cta-layer>
+        </amp-story-grid-layer>
+      </amp-story-page>
+      <amp-story-bookend layout="nodisplay">
+        <script type="application/json">
+          {
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "linkedin"
+  ],
+  "components": []
+}
+        </script>
+      </amp-story-bookend>
+    </amp-story>
+  </body>
+</html>
