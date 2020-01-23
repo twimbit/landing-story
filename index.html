@@ -108,6 +108,20 @@
        align-content: start;
        text-align: left;
     }
+
+    .right
+    {
+      text-align: right;
+      padding-left: 60em;
+      padding-top: 20em;
+    }
+    .left
+    {
+      text-align: left;
+      padding-right: 120vh;
+      padding-top: 20em;
+    }
+
     .end {
       align-content: end;
       text-align: right;
@@ -147,6 +161,18 @@
     .start {
        align-content: start;
        text-align: left;
+    }
+    .right
+    {
+      text-align: right;
+      padding-left: 0;
+      padding-top: 65vh;
+    }
+    .left
+    {
+      text-align: left;
+      padding-right: 10vh;
+      padding-top: 35vh;
     }
     .end {
        align-content: end;
@@ -194,6 +220,20 @@
     .start {
        align-content: start;
        text-align: left;
+    }
+
+    .right
+    {
+      text-align: right;
+      text-align: center;
+      padding-left: 0;
+      padding-top: 70vh;
+    }
+    .left
+    {
+      text-align: left;
+      padding-top: 40vh;
+      padding-right: 15vh;
     }
     .end {
        align-content: end;
@@ -244,6 +284,19 @@
        align-content: start;
        text-align: left;
     }
+    .right
+    {
+      align-content: end;
+      text-align: center;
+      padding-left: 0;
+    }
+    .left
+    {
+      text-align: left;
+      padding-right: 7vh;
+      padding-top: 40vh;
+    }
+
     .end {
        align-content: end;
       text-align: right;
@@ -292,6 +345,19 @@
        align-content: start;
        text-align: left;
     }
+    .right
+    {
+      align-content: end;
+      text-align: center;
+      padding-left: 0;
+    }
+    .left
+    {
+      text-align: left;
+      padding-right: 9vh;
+      padding-top: 40vh;
+    }
+
     .end {
        align-content: end;
       text-align: right;
@@ -366,6 +432,18 @@
        align-content: start;
        text-align: left;
     }
+    .right
+    {
+      text-align: right;
+      padding-left: 60em;
+      padding-top: 20em;
+    }
+    .left
+    {
+      text-align: left;
+      padding-right: 120vh;
+      padding-top: 20em;
+    }
     .end {
        align-content: end;
       text-align: right;
@@ -424,9 +502,59 @@
   <body>
     <amp-story standalone supports-landscape title="Twimbit Pro - Research" publisher="" publisher-logo-src="./assets/first.png" poster-portrait-src="https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/ampstor-grey-background?alt=media&token=d4bbdc24-8f27-4404-9b8a-b54d804212de">
 
+      <amp-story-page id="0">
+        <amp-story-grid-layer template="fill">
+          <amp-img height="1024" src="./assets/banner.jpg" class="image-fit-cover" style="color: #FFFFFF;object-fit: cover;" width="1024">
+          </amp-img>
+        </amp-story-grid-layer>
 
+        <amp-story-grid-layer  class="right" template="vertical">
+          <div style="text-align: center;">
+            <amp-img height="120" src="./assets/click.gif" class="image-fit-contain" style="color: #FFFFFF;">
+            </amp-img>
+            <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1em;font-weight: bold;" animate-in="fade-in" animate-in-duration="1s">
+              Tap to Start
+            </p>
+          </div>
 
+        </amp-story-grid-layer>
 
+        <amp-story-grid-layer  class="left" template="vertical">
+          <div style="">
+            <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1.3em;font-weight: bold;" animate-in="fly-in-left">
+              Prepare for the future Technologies
+            </p>
+          </div>
+
+          <div style="">
+            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1s">
+              Prepare for the future careers
+            </p>
+          </div>
+
+          <div style="">
+            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1.5s">
+              <br>
+              Prepare for the future industries
+            </p>
+          </div>
+
+          <div style="">
+            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1.5s">
+              <br>
+              Prepare for the future business models
+            </p>
+          </div>
+
+          <div style="">
+            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1.5s">
+              <br>
+              Prepare for the future companies
+            </p>
+          </div>
+
+        </amp-story-grid-layer>
+      </amp-story-page>
 
 
       <amp-story-page id="1">
