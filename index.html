@@ -11,6 +11,41 @@
         -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
         animation: -amp-start 8s steps(1, end) 0s 1 normal both
     }
+      
+      .-ou {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+      .-op {
+    margin-top: 1.5rem;
+    font-family: Poppins,sans-serif;
+    font-weight: 700;
+    line-height: 1.2em;
+    font-size: 1.65rem;
+    color: #fff;
+    margin: 0;
+}
+      .-oa {
+    grid-column: 1/-1;
+    grid-row: 1/-1;
+    margin-right: auto;
+    animation: roll 8s cubic-bezier(0.25, 0.1, 0, 0.91) 1s infinite backwards;
+}
+      @keyframes roll {
+0% {
+    opacity: 0;
+    transform: translate3d(0,-70%,0);
+}
+2.5%, 25% {
+    opacity: 1;
+    transform: translate3d(0,0,0);
+}
+100%, 27.5% {
+    opacity: 0;
+    transform: translate3d(0,70%,0);
+}
+      }
 
     @-webkit-keyframes -amp-start {
         from {
@@ -520,38 +555,18 @@
         </amp-story-grid-layer>
 
         <amp-story-grid-layer  class="left" template="vertical">
-          <div style="">
-            <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1.3em;font-weight: bold;" animate-in="fly-in-left">
-              Prepare for the future Technologies
-            </p>
-          </div>
+         <h1 class="-op">Prepare for the<span style="white-space: nowrap;">future</span><br> 
 
-          <div style="">
-            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1s">
-              Prepare for the future careers
-            </p>
-          </div>
-
-          <div style="">
-            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1.5s">
-              <br>
-              Prepare for the future industries
-            </p>
-          </div>
-
-          <div style="">
-            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1.5s">
-              <br>
-              Prepare for the future business models
-            </p>
-          </div>
-
-          <div style="">
-            <p style="color: #ffffff;opacity:0;font-family: Poppins;font-size: 1em; text-align: center;" animate-in="fly-in-left" animate-in-delay="1.5s">
-              <br>
-              Prepare for the future companies
-            </p>
-          </div>
+<span class="-oo"></span>
+<div class="-os">
+  <div class="-ou">
+    <span class="-oa">Technologies</span>
+    <span class="-oa">Business Models</span>
+    <span class="-oa">Careers</span>
+    <span class="-oa">Industries</span>
+    <span class="-oa">Comapnies</span>
+  </div>
+</div></h1>
 
         </amp-story-grid-layer>
       </amp-story-page>
