@@ -160,13 +160,14 @@
       align-content: start;
       text-align: left;
     }
-    .right
+    .banner_click
     {
       text-align: right;
       padding-left: 156vh;
       padding-top: 46vh;
+
     }
-    .left
+    .banner_text
     {
       text-align: left;
       padding-right: 120vh;
@@ -216,7 +217,7 @@
         align-content: end;
         text-align: right;
       }
-      .right
+      .banner_click
       {
         text-align: right;
         padding-left: 0;
@@ -226,7 +227,7 @@
       {
         object-position: center right;
       }
-      .left
+      .banner_text
       {
         text-align: left;
         padding-right: 0;
@@ -275,7 +276,7 @@
         align-content: start;
         text-align: left;
       }
-      .right
+      .banner_click
       {
         text-align: right;
         /*padding-left: 100vh;*/
@@ -335,7 +336,7 @@
         align-content: start;
         text-align: left;
       }
-      .right
+      .banner_click
       {
         align-content: end;
         text-align: center;
@@ -365,6 +366,20 @@
       }
 
     }
+
+    @media screen
+    and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+      :root {
+        --color-error: #B00020;
+        --color-primary: #005AF0;
+      }
+    {
+
+
+    }
+    }
+
+
     @media screen
     and (max-width: 1024px)
     and (min-width: 768px){
@@ -395,9 +410,16 @@
         text-align: left;
       }
 
-      .left
+      .banner_text
       {
         margin-left: 10vh;
+        padding-right: 0;
+      }
+      .banner_click
+      {
+        align-content: end;
+        text-align: center;
+        padding-left: 0;
       }
       .end {
         align-content: end;
@@ -474,10 +496,11 @@
         text-align: left;
       }
 
-      .left
+      .banner_text
       {
         margin-left: 10vh;
       }
+
       .end {
         align-content: end;
         text-align: right;
@@ -542,18 +565,20 @@
       </amp-img>
     </amp-story-grid-layer>
 
-    <amp-story-grid-layer  class="right" template="vertical">
+    <amp-story-grid-layer  class="banner_click" template="vertical">
       <div style="text-align: center;">
-        <amp-img height="120" src="./assets/click.gif" class="image-fit-contain" style="color: #FFFFFF;">
-        </amp-img>
-        <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1em;font-weight: bold;" animate-in="fade-in" animate-in-duration="1s">
+        <p style="color: #ffffff;opacity: 1;font-family: Poppins;font-size: 1em;font-weight: bold; margin-bottom: -3vh;
+    margin-right: 7vh;" animate-in="fade-in" animate-in-duration="1s">
           Tap to Start
         </p>
+        <amp-img height="120" src="./assets/click.gif" class="image-fit-contain" style="color: #FFFFFF;">
+        </amp-img>
+
       </div>
 
     </amp-story-grid-layer>
 
-    <amp-story-grid-layer  class="left" template="vertical">
+    <amp-story-grid-layer  class="banner_text" template="vertical">
       <h1 class="-op">Prepare for the <span style="white-space: nowrap;"> future</span><br>
         <span class="-oo"></span>
         <div class="-os">
